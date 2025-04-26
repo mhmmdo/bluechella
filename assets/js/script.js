@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { 
             name: 'Ice Blue Potion', 
             price: '18K', 
-            desc: 'Perpaduan Bunga Telang dan Lemon',
+            desc: 'Perpaduan Bunga Telang, Lemon & Soda',
             image: 'img/bluepotion.png' 
         },
         { 
